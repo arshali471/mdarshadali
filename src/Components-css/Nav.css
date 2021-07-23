@@ -1,4 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+@media (max-width:768px){
+    .navbar-nav .nav-link {
+        padding:1% !important;
+        background-color: white;
+        border: 0.5px solid rgb(150, 143, 143);
+    }
+    /* .navbar-nav{
+        border-radius: 10%;
+    } */
+}
 .navbar{
     background-size: cover !important;
     background-repeat: no-repeat !important;
@@ -14,7 +24,6 @@
     font-size: larger;
     font-weight: bolder;
     color: black !important;
-    /* border: 0.5px solid rgb(150, 143, 143); */
 }
 
 .nav-link:hover{
