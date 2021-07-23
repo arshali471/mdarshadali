@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+.navbar{
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+.header{
+    /* height: 800px; */
+    /* background: url("https://xd.adobe.com/ideas/wp-content/uploads/2020/09/Being-Shady-How-to-Use-Gradient-Color-in-UX-Design-5-778x550.jpeg"); */
+    background: url("https://i.pinimg.com/736x/06/8e/4a/068e4a8e677857976f4e743b8c2b8b43.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-link{
+    font-size: larger;
+    font-weight: bolder;
+    color: black !important;
+    /* border: 0.5px solid rgb(150, 143, 143); */
+}
+
+.nav-link:hover{
+    text-decoration: underline black 2px;
+}
+.aimage{
+    margin-top: 10%;
+}
+.fs{
+    margin-top: 60%;
+    font-family: 'Otomanopee One', sans-serif;
+    color: white;
+    font-size: 3rem;
+    text-align: left;
+}
+.de{
+    text-align: left;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.bu1{
+    margin-top: 5%;
+    padding: 2%;
+    float: left;
+    margin-left: 2%;
+}
+.bu1:hover{
+    background-color: yellowgreen;
+    border-radius: 8%;
+}
+.bu1 a{
+    text-decoration: none;
+    color: black;
+}
+.fo{
+    margin-top: 25%;
+    float: left;
+    margin-left: -45%;
+    color: white;
+    font-weight: bold;
+}

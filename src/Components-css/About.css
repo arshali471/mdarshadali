@@ -1,0 +1,27 @@
+.cl{
+    background-color: white;
+    margin: 10%;
+    padding: 3%;
+}
+.about{
+    background-image: url('https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.am{
+    color: rgb(0, 255, 115);
+    font-weight: bold;
+}
+.fsw{
+    font-weight: bold;
+}
+td{
+    font-weight: bold;
+}
+.dr a{
+text-decoration: none;
+color: black;
+}
+.dr a:hover{
+    color: white;
+}
