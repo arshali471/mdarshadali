@@ -99,7 +99,12 @@ function About() {
                                     <img src="https://img.icons8.com/material-outlined/24/26e07f/star--v2.png" alt="not found"/>
                                     <img src="https://img.icons8.com/material-outlined/24/26e07f/star--v2.png" alt="not found"/>
                                 </Col>
-                             <Col sm></Col>
+                             <Col sm>Linux <br />
+                             <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
+                                    <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png"alt="not found" />
+                                    <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
+                                    <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
+                                    <img src="https://img.icons8.com/material-outlined/24/26e07f/star--v2.png" alt="not found"/> </Col>
                              <Col sm></Col>
                             </Row>
 
