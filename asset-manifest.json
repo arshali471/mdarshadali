@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mdarshadali/static/css/main.31884cdf.chunk.css",
-    "main.js": "/mdarshadali/static/js/main.f34a988d.chunk.js",
-    "main.js.map": "/mdarshadali/static/js/main.f34a988d.chunk.js.map",
+    "main.css": "/mdarshadali/static/css/main.eebf25ec.chunk.css",
+    "main.js": "/mdarshadali/static/js/main.090b84a0.chunk.js",
+    "main.js.map": "/mdarshadali/static/js/main.090b84a0.chunk.js.map",
     "runtime-main.js": "/mdarshadali/static/js/runtime-main.0a1e2973.js",
     "runtime-main.js.map": "/mdarshadali/static/js/runtime-main.0a1e2973.js.map",
     "static/css/2.4be38407.chunk.css": "/mdarshadali/static/css/2.4be38407.chunk.css",
@@ -12,9 +12,9 @@
     "static/js/3.ea039292.chunk.js.map": "/mdarshadali/static/js/3.ea039292.chunk.js.map",
     "index.html": "/mdarshadali/index.html",
     "static/css/2.4be38407.chunk.css.map": "/mdarshadali/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.31884cdf.chunk.css.map": "/mdarshadali/static/css/main.31884cdf.chunk.css.map",
+    "static/css/main.eebf25ec.chunk.css.map": "/mdarshadali/static/css/main.eebf25ec.chunk.css.map",
     "static/js/2.062cbac4.chunk.js.LICENSE.txt": "/mdarshadali/static/js/2.062cbac4.chunk.js.LICENSE.txt",
-    "static/media/ArshadResume.a10e3330.pdf": "/mdarshadali/static/media/ArshadResume.a10e3330.pdf",
+    "static/media/ArshadResume.0e6e0e37.pdf": "/mdarshadali/static/media/ArshadResume.0e6e0e37.pdf",
     "static/media/alogo.acbce2af.png": "/mdarshadali/static/media/alogo.acbce2af.png",
     "static/media/arshad.7810489f.png": "/mdarshadali/static/media/arshad.7810489f.png",
     "static/media/arshad1.6fb97566.jpeg": "/mdarshadali/static/media/arshad1.6fb97566.jpeg"
@@ -23,7 +23,7 @@
     "static/js/runtime-main.0a1e2973.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.062cbac4.chunk.js",
-    "static/css/main.31884cdf.chunk.css",
-    "static/js/main.f34a988d.chunk.js"
+    "static/css/main.eebf25ec.chunk.css",
+    "static/js/main.090b84a0.chunk.js"
   ]
 }
