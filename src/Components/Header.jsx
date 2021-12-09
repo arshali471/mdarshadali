@@ -19,9 +19,9 @@ function Header() {
                 <Row>
                     <Col sm>
                         <h1 className='fs pt-4'>
-                            Full stack Web Developer
+                            Full stack Developer
                         </h1>
-                        <h4 className='de'>Hi, I am Md Arshad Ali, seeking for  a carrer in Web Development.</h4>
+                        <h4 className='de'>Hi, I am Md Arshad Ali, seeking for  a carrer in Full Stack Developer.</h4>
                         {/* <Button variant="warning" className='bu1' onClick={Downloadpdf} >Download Resume</Button> */}
                         <Button variant="warning" className='bu1' > <a href={Componentpdf}>Download Resume</a> </Button>
                         <Button variant="warning" className='bu1' > <a href="mailto:arshali471@gmail.com">Let's Chat</a> </Button>

@@ -58,7 +58,7 @@ function About() {
                                     <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
                                     <img src="https://img.icons8.com/material-outlined/24/26e07f/star--v2.png" alt="not found"/>
                                 </Col>
-                                <Col sm> Jquery <br />
+                                <Col sm> Node-js <br />
                                     <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
                                     <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
                                     <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
@@ -75,6 +75,13 @@ function About() {
                                     <img src="https://img.icons8.com/material-outlined/24/26e07f/star--v2.png"alt="not found" />
                                     <img src="https://img.icons8.com/material-outlined/24/26e07f/star--v2.png" alt="not found"/>
                                 </Col>
+                                <Col sm> Express-Js <br />
+                                    <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
+                                    <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
+                                    <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
+                                    <img src="https://img.icons8.com/material-outlined/24/26e07f/star--v2.png"alt="not found" />
+                                    <img src="https://img.icons8.com/material-outlined/24/26e07f/star--v2.png" alt="not found"/>
+                                </Col>
                                 <Col sm>Rest Api <br />
                                     <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
                                     <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
@@ -82,16 +89,17 @@ function About() {
                                     <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
                                     <img src="https://img.icons8.com/material-outlined/24/26e07f/star--v2.png" alt="not found"/>
                                 </Col>
-                                <Col sm> SQL <br />
+                             
+                            </Row>
+
+                            <Row>
+                            <Col sm> SQL <br />
                                     <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
                                     <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
                                     <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
                                     <img src="https://img.icons8.com/material-outlined/24/26e07f/star--v2.png"alt="not found" />
                                     <img src="https://img.icons8.com/material-outlined/24/26e07f/star--v2.png" alt="not found"/>
                                 </Col>
-                            </Row>
-
-                            <Row>
                                 <Col sm> Mongodb <br />
                                     <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
                                     <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png"alt="not found" />
@@ -105,7 +113,7 @@ function About() {
                                     <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
                                     <img src="https://img.icons8.com/material-rounded/24/26e07f/star--v1.png" alt="not found"/>
                                     <img src="https://img.icons8.com/material-outlined/24/26e07f/star--v2.png" alt="not found"/> </Col>
-                             <Col sm></Col>
+                             
                             </Row>
 
                           <br />  <p>
